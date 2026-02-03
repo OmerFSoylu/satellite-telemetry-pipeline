@@ -1,0 +1,4 @@
+*.so
+*.class
+__pycache__/
+.vscode/
